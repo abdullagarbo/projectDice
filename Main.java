@@ -5,7 +5,6 @@ public class Main {
 
 		@SuppressWarnings("resource")
 		Scanner dieScanner = new Scanner(System.in);
-
 		System.out.println("Enter user name");
 		String username = dieScanner.nextLine();
 		System.out.println("Username: " + username);
